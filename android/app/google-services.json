@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47239448041",
+    "project_id": "pdfuploader-2a1c1",
+    "storage_bucket": "pdfuploader-2a1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47239448041:android:4154bca5974e23c59f3778",
+        "android_client_info": {
+          "package_name": "com.example.pdfuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47239448041-8q8hl1ovalfqp4de4unbs5hu52br00dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdfuploader",
+            "certificate_hash": "98b9f01140ba51eb7f53768dd298d4a0f906cd5c"
+          }
+        },
+        {
+          "client_id": "47239448041-65jhnie3on9psbvcq3796648db10bk6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLtqExhchNya0FBAhQlW-kCFOTc1hla2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47239448041-65jhnie3on9psbvcq3796648db10bk6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
